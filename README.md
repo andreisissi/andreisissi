@@ -1,16 +1,14 @@
-### Hi there 👋
+####   Oiii seja bem vindo(a) ao meu perfil!! ✨
 
-<!--
-**andreisissi/andreisissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Procurando uma oportunidade de trabalho para iniciar na carreira dev 🚀
+- 🌱 Estudando JavaScript
+- 📩 E-mail: sissi.andreis@gmail.com
+- 😄 Pronouns: Ela/Dela
+- ⚡ Fun fact: Larguei a área da saúde e me joguei de cabeça na tecnologia
+- ❤️ Apaixonada por esse novo mundo
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div align="start">
+  <a href="https://github.com/andreisissi">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreisissi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreisissi&layout=compact&langs_count=7&theme=dracula"/>
+</div>
