@@ -1,11 +1,20 @@
 ####   Oiii seja bem vindo(a) ao meu perfil!! ✨
 
+ <div>
+ <img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" >
+</div>
+
+##
+
+
 - 🔭 Procurando uma oportunidade de trabalho para iniciar na carreira dev 🚀
 - 🌱 Estudando JavaScript
 - 📩 E-mail: sissi.andreis@gmail.com
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: Larguei a área da saúde e me joguei de cabeça na tecnologia
 - ❤️ Apaixonada por esse novo mundo
+
+##
 
  <div align="start">
   <a href="https://github.com/andreisissi">
