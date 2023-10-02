@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
- <p align="center" > Oiii seja bem vindo(a) ao meu perfil!! ✨</p>
+ <h2 align="center" > Oiii seja bem vindo(a) ao meu perfil!! ✨</h2>
 
  <div>
  <img src="https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904" >
