@@ -10,7 +10,7 @@
 
 
 - 🔭 Procurando uma oportunidade de trabalho para iniciar na carreira dev 🚀
-- 🌱 Estudando JavaScript
+- 🌱 Estudando JavaScript; typescript; angular; Bootstrap;
 - 📩 E-mail: sissi.andreis@gmail.com
 - 😄 Pronouns: Ela/Dela
 - ⚡ Fun fact: Larguei a área da saúde e me joguei de cabeça na tecnologia
